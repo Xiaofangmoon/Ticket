@@ -32,7 +32,7 @@ Options:
 
 Example:
     tickets 北京 上海 2017-04-12
-    tickets -dg 成都 南京 2017-4-12
+    tickets -dg 成都 南京 2017-04-12
 ```
 
 
